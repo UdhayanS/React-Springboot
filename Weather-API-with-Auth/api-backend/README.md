@@ -1,6 +1,5 @@
-**Testing with Post man**
-Method: POST
-URL:
+## **Testing with Post man**
+ Method: POST
 ```bash
 http://localhost:8080/api/register
 ```
